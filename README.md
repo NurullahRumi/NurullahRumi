@@ -1,4 +1,4 @@
-### Hello, This Rumi here 👋
+### Hello, This is Rumi here 👋
 
 **NurullahRumi/NurullahRumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
