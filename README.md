@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Compagnie Mauricienne de Textile Ltée: CMT
+- 🔭 I’m currently working on LEADS Corporation Limited
 - 🌱 I’m currently learning JAVA, AngularJS, Oracle
 - 👯 I’m looking to collaborate on Goolge
 - 🤔 I’m looking for help with Java
